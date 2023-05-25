@@ -17,7 +17,7 @@ body {
 }
 
 .separar::after {
-    content: ' | ';
+    content: ' |';
     color: black;
     margin: 0 0.5em 0 0;
     text-decoration: none;
